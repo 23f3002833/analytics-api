@@ -1,5 +1,5 @@
 const API_KEY = "ak_f9ruyuht707lgyc48zw1zwhd";
-const EMAIL = "YOUR_EMAIL_HERE"; // <-- replace with your logged-in email
+const EMAIL = "23f3002833@ds.study.iitm.ac.in"; // <-- replace with your logged-in email
 
 export default function handler(req, res) {
   // CORS headers on EVERY response
