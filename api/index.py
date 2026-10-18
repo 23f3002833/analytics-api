@@ -3,7 +3,7 @@ from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 
 API_KEY = "ak_f9ruyuht707lgyc48zw1zwhd"
-EMAIL = "YOUR_EMAIL_HERE"   # <-- replace with your logged-in email
+EMAIL = "23f3002833@ds.study.iitm.ac.in"   # <-- replace with your logged-in email
 
 app = FastAPI()
 
